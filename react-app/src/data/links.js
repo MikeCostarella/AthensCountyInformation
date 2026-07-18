@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Athens County (Official Site)", category: "Government", subcategory: "County", url: "https://www.co.athensoh.org/", description: "Official government portal for Athens County Ohio." },
